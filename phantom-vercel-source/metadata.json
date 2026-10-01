@@ -1,0 +1,6 @@
+{
+  "name": "Phantom",
+  "description": "An untraceable anonymous chat platform where users join ephemeral rooms using a room code with fluid liquid glass aesthetics and zero logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
